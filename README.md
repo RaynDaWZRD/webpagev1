@@ -1,1 +1,2 @@
 # webpagev1
+This is a barebone shell of my first website. I am hoping to use this series to track my progress as I learn web development! This first version was made completely in HTML (with a couple of No-Nos), I wanted to practice using elements and attributes to format a basic webpage and practice other techniques like creating hyperlinks and forms! My ultimate goal with V2 will be to remove any nested formats from HTML and use CSS to manipulate my stati site the way I would like!
